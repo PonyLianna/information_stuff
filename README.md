@@ -17,3 +17,4 @@
 
 ## Other stuff
 * [From Python to Ruby](https://www.ruby-lang.org/ru/documentation/ruby-from-other-languages/to-ruby-from-python/)
+* [Node frameworks list](http://nodeframework.com/)
