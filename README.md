@@ -3,8 +3,9 @@
 ### Guides
 
 - [JavaScript for Cats](http://jsforcats.com/)
-- [MDN JavaScript Guide](https://developer.mozilla.org/docs/Web/JavaScript/Guide)
+- [MDN JavaScript Guide](https://developer.mozilla.org/docs/Web/JavaScript/Guide/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [One-To-One Relations in JPA](https://www.codeflow.site/ru/article/jpa-one-to-one/)
 
 ### Videos and Courses
 
