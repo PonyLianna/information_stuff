@@ -39,6 +39,9 @@
 * [Front-end Stuff](https://github.com/moklick/frontend-stuff/)
 * [Another interesting Front-stuff with compare](http://usablica.github.io/front-end-frameworks/)
 
+## Self-hosted apps
+* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file)
+
 ## CMS
 * [List of CMS](https://github.com/postlight/awesome-cms/)
 
